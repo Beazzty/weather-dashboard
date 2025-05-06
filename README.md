@@ -11,13 +11,11 @@
 
 # Installation
 - Instructions on how to install project
-- git clone 
-
+- git clone https://github.com/Beazzty/weather-dashboard.git
 - cd bootcamp/Challange-9
 - npm install
 
 # Usage
-- ```bash
 - Run the project
 - npm start
 # Credits
@@ -38,4 +36,4 @@
 - Quinn Brown - quinnbrown2004@gmail.com
 
 # Link
-- https://github.com/Beazzty/Vehicle-builder
+- https://github.com/Beazzty/weather-dashboard
